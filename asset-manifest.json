@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/onelink.pixelcrm.github.io/static/css/main.42e60665.css",
-    "main.js": "/onelink.pixelcrm.github.io/static/js/main.11a31dd2.js",
-    "static/js/934.dbe39aa4.js": "/onelink.pixelcrm.github.io/static/js/934.dbe39aa4.js",
+    "main.js": "/onelink.pixelcrm.github.io/static/js/main.0d2d7ff6.js",
+    "static/js/934.525e7e0f.js": "/onelink.pixelcrm.github.io/static/js/934.525e7e0f.js",
     "static/media/MaterialCommunityIcons.ttf": "/onelink.pixelcrm.github.io/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/Ionicons.ttf": "/onelink.pixelcrm.github.io/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
     "static/media/MaterialIcons.ttf": "/onelink.pixelcrm.github.io/static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
@@ -24,18 +24,18 @@
     "static/media/slick.eot": "/onelink.pixelcrm.github.io/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/onelink.pixelcrm.github.io/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/onelink.pixelcrm.github.io/static/media/slick.295183786cd8a1389865.woff",
-    "favicon-32.png": "/onelink.pixelcrm.github.io/favicon-32.png",
     "postMock.html": "/onelink.pixelcrm.github.io/postMock.html",
+    "favicon-32.png": "/onelink.pixelcrm.github.io/favicon-32.png",
     "manifest.json": "/onelink.pixelcrm.github.io/manifest.json",
     "favicon-16.png": "/onelink.pixelcrm.github.io/favicon-16.png",
     "serve.json": "/onelink.pixelcrm.github.io/serve.json",
     "main.42e60665.css.map": "/onelink.pixelcrm.github.io/static/css/main.42e60665.css.map",
-    "main.11a31dd2.js.map": "/onelink.pixelcrm.github.io/static/js/main.11a31dd2.js.map",
-    "934.dbe39aa4.js.map": "/onelink.pixelcrm.github.io/static/js/934.dbe39aa4.js.map"
+    "main.0d2d7ff6.js.map": "/onelink.pixelcrm.github.io/static/js/main.0d2d7ff6.js.map",
+    "934.525e7e0f.js.map": "/onelink.pixelcrm.github.io/static/js/934.525e7e0f.js.map"
   },
   "entrypoints": [
-    "static/js/934.dbe39aa4.js",
+    "static/js/934.525e7e0f.js",
     "static/css/main.42e60665.css",
-    "static/js/main.11a31dd2.js"
+    "static/js/main.0d2d7ff6.js"
   ]
 }
