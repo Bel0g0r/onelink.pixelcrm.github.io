@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/onelink.pixelcrm.github.io/static/css/main.42e60665.css",
-    "main.js": "/onelink.pixelcrm.github.io/static/js/main.0d2d7ff6.js",
-    "static/js/934.525e7e0f.js": "/onelink.pixelcrm.github.io/static/js/934.525e7e0f.js",
+    "main.css": "/onelink.pixelcrm.github.io/static/css/main.40b5cb9f.css",
+    "main.js": "/onelink.pixelcrm.github.io/static/js/main.e6e801ea.js",
+    "static/js/934.80322d3b.js": "/onelink.pixelcrm.github.io/static/js/934.80322d3b.js",
     "static/media/MaterialCommunityIcons.ttf": "/onelink.pixelcrm.github.io/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/Ionicons.ttf": "/onelink.pixelcrm.github.io/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
     "static/media/MaterialIcons.ttf": "/onelink.pixelcrm.github.io/static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
@@ -21,21 +21,21 @@
     "index.html": "/onelink.pixelcrm.github.io/index.html",
     "static/media/ajax-loader.gif": "/onelink.pixelcrm.github.io/static/media/ajax-loader.fb6f3c230cb846e25247.gif",
     "static/media/slick.svg": "/onelink.pixelcrm.github.io/static/media/slick.2630a3e3eab21c607e21.svg",
+    "favicon-32.png": "/onelink.pixelcrm.github.io/favicon-32.png",
     "static/media/slick.eot": "/onelink.pixelcrm.github.io/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/onelink.pixelcrm.github.io/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/onelink.pixelcrm.github.io/static/media/slick.295183786cd8a1389865.woff",
-    "postMock.html": "/onelink.pixelcrm.github.io/postMock.html",
-    "favicon-32.png": "/onelink.pixelcrm.github.io/favicon-32.png",
-    "manifest.json": "/onelink.pixelcrm.github.io/manifest.json",
     "favicon-16.png": "/onelink.pixelcrm.github.io/favicon-16.png",
+    "postMock.html": "/onelink.pixelcrm.github.io/postMock.html",
+    "manifest.json": "/onelink.pixelcrm.github.io/manifest.json",
     "serve.json": "/onelink.pixelcrm.github.io/serve.json",
-    "main.42e60665.css.map": "/onelink.pixelcrm.github.io/static/css/main.42e60665.css.map",
-    "main.0d2d7ff6.js.map": "/onelink.pixelcrm.github.io/static/js/main.0d2d7ff6.js.map",
-    "934.525e7e0f.js.map": "/onelink.pixelcrm.github.io/static/js/934.525e7e0f.js.map"
+    "main.40b5cb9f.css.map": "/onelink.pixelcrm.github.io/static/css/main.40b5cb9f.css.map",
+    "main.e6e801ea.js.map": "/onelink.pixelcrm.github.io/static/js/main.e6e801ea.js.map",
+    "934.80322d3b.js.map": "/onelink.pixelcrm.github.io/static/js/934.80322d3b.js.map"
   },
   "entrypoints": [
-    "static/js/934.525e7e0f.js",
-    "static/css/main.42e60665.css",
-    "static/js/main.0d2d7ff6.js"
+    "static/js/934.80322d3b.js",
+    "static/css/main.40b5cb9f.css",
+    "static/js/main.e6e801ea.js"
   ]
 }
