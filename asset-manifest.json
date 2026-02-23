@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/onelink.pixelcrm.github.io/static/css/main.66f5e9cf.css",
-    "main.js": "/onelink.pixelcrm.github.io/static/js/main.af912479.js",
+    "main.js": "/onelink.pixelcrm.github.io/static/js/main.a6f7416c.js",
     "static/js/422.0810e9af.js": "/onelink.pixelcrm.github.io/static/js/422.0810e9af.js",
     "static/media/MaterialCommunityIcons.ttf": "/onelink.pixelcrm.github.io/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/Ionicons.ttf": "/onelink.pixelcrm.github.io/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
@@ -30,12 +30,12 @@
     "manifest.json": "/onelink.pixelcrm.github.io/manifest.json",
     "serve.json": "/onelink.pixelcrm.github.io/serve.json",
     "main.66f5e9cf.css.map": "/onelink.pixelcrm.github.io/static/css/main.66f5e9cf.css.map",
-    "main.af912479.js.map": "/onelink.pixelcrm.github.io/static/js/main.af912479.js.map",
+    "main.a6f7416c.js.map": "/onelink.pixelcrm.github.io/static/js/main.a6f7416c.js.map",
     "422.0810e9af.js.map": "/onelink.pixelcrm.github.io/static/js/422.0810e9af.js.map"
   },
   "entrypoints": [
     "static/js/422.0810e9af.js",
     "static/css/main.66f5e9cf.css",
-    "static/js/main.af912479.js"
+    "static/js/main.a6f7416c.js"
   ]
 }
